@@ -1,11 +1,11 @@
 ---
 layout: default
-title: AutoApp Legal
+title: Legal — Harsh Patel apps
 ---
 
-# AutoApp Legal
+# Legal — Harsh Patel apps
 
-Privacy Policy and Terms of Use for apps published by **Harsh Patel** under the AutoApp engine. Each individual app contains the full text in **Settings → Privacy** and **Settings → Terms** within the app itself; this site is the canonical web reference required by the App Store.
+Privacy Policy and Terms of Use for apps published by **Harsh Patel** on the iOS App Store. Each individual app contains the full text in **Settings → Privacy** and **Settings → Terms** within the app itself; this site is the canonical web reference required by the App Store.
 
 - [Privacy Policy](/autoapp-legal/privacy/)
 - [Terms of Use](/autoapp-legal/terms/)

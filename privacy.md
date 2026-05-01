@@ -8,11 +8,11 @@ permalink: /privacy/
 
 **Last updated: 2026-05-01**
 
-This policy applies to all apps published by **Harsh Patel** ("AutoApp") on the iOS App Store. Each app's in-app **Settings → Privacy** screen contains a version of this same text customized to that specific app's data practices.
+This policy applies to all apps published by **Harsh Patel** on the iOS App Store. Each app's in-app **Settings → Privacy** screen contains a version of this same text customized to that specific app's data practices.
 
 ## Summary
 
-AutoApp's apps keep your data on your device. We don't have user accounts, we don't ask for your name, and we don't sell your data to anyone. This page explains the few exceptions in detail so you can make an informed choice before tapping Begin in the app.
+These apps keep your data on your device. There are no user accounts, we don't ask for your name, and we don't sell your data to anyone. This page explains the few exceptions in detail so you can make an informed choice before tapping Begin in the app.
 
 ## What we store on your device
 

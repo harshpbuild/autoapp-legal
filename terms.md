@@ -8,19 +8,19 @@ permalink: /terms/
 
 **Last updated: 2026-05-01**
 
-These terms apply to all apps published by **Harsh Patel** ("AutoApp") on the iOS App Store. Each app's in-app **Settings → Terms** screen contains a version of this same text customized to that specific app's pricing.
+These terms apply to all apps published by **Harsh Patel** on the iOS App Store. Each app's in-app **Settings → Terms** screen contains a version of this same text customized to that specific app's pricing.
 
 ## Acceptance
 
-By installing and using any AutoApp app, you agree to these Terms of Use. If you don't agree, please don't use the app.
+By installing and using one of these apps, you agree to these Terms of Use. If you don't agree, please don't use the app.
 
 ## Your license
 
-We grant you a limited, non-exclusive, non-transferable, revocable license to use AutoApp apps for personal, non-commercial use on Apple devices you own or control. You may not reverse-engineer, decompile, redistribute, or remove proprietary notices from the apps.
+Harsh Patel grants you a limited, non-exclusive, non-transferable, revocable license to use the apps for personal, non-commercial use on Apple devices you own or control. You may not reverse-engineer, decompile, redistribute, or remove proprietary notices from the apps.
 
 ## Subscriptions
 
-AutoApp apps offer optional auto-renewing subscriptions. Specific prices and trial periods vary by app and are shown in-app and in the App Store listing.
+Some apps offer optional auto-renewing subscriptions. Specific prices and trial periods vary by app and are shown in-app and in the App Store listing.
 
 - New subscribers may receive a free trial. The trial converts automatically to the paid subscription unless cancelled before it ends.
 - Payment is charged to your Apple ID at confirmation of purchase. Subscriptions auto-renew unless cancelled at least 24 hours before the end of the current period. Renewal is charged within 24 hours before the end of the current period.
@@ -29,25 +29,25 @@ AutoApp apps offer optional auto-renewing subscriptions. Specific prices and tri
 
 ## Your content
 
-Anything you write inside an AutoApp app — entries, sessions, notes — belongs to you. We don't claim any ownership and we don't transmit your content off your device unless you've enabled iCloud sync (in which case Apple handles the storage under their privacy policy). We do not read, train models on, or share your content.
+Anything you write inside an app — entries, sessions, notes — belongs to you. We don't claim any ownership and we don't transmit your content off your device unless you've enabled iCloud sync (in which case Apple handles the storage under their privacy policy). We do not read, train models on, or share your content.
 
 ## Acceptable use
 
-- Use AutoApp apps for personal, lawful purposes.
+- Use the apps for personal, lawful purposes.
 - Don't attempt to disrupt, attack, or extract source code from the apps.
 - Don't use the apps in any way that violates Apple's App Store guidelines.
 
 ## Disclaimer
 
-AutoApp apps are provided "as is" without warranties of any kind. We don't guarantee uninterrupted operation, that the apps are free of bugs, or that they will achieve any specific outcome. AutoApp apps are not a substitute for professional medical, mental-health, financial, or legal advice. If you need professional help, please consult a qualified professional.
+The apps are provided "as is" without warranties of any kind. We don't guarantee uninterrupted operation, that the apps are free of bugs, or that they will achieve any specific outcome. The apps are not a substitute for professional medical, mental-health, financial, or legal advice. If you need professional help, please consult a qualified professional.
 
 ## Limitation of liability
 
-To the maximum extent permitted by law, Harsh Patel's total liability for any claim arising from your use of any AutoApp app is limited to the amount you paid for that app or subscription in the 12 months before the claim. We are not liable for indirect, consequential, or incidental damages.
+To the maximum extent permitted by law, Harsh Patel's total liability for any claim arising from your use of the apps is limited to the amount you paid for the relevant app or subscription in the 12 months before the claim. We are not liable for indirect, consequential, or incidental damages.
 
 ## Termination
 
-You may stop using any AutoApp app at any time by deleting it. We may suspend or terminate access if you violate these terms; we'll generally notify you first when practical.
+You may stop using an app at any time by deleting it. We may suspend or terminate access if you violate these terms; we'll generally notify you first when practical.
 
 ## Changes to these terms
 
