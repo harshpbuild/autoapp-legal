@@ -10,6 +10,12 @@ Privacy Policy and Terms of Use for apps published by **Harsh Patel** on the iOS
 - [Privacy Policy](/autoapp-legal/privacy/)
 - [Terms of Use](/autoapp-legal/terms/)
 
+## App-specific policies
+
+- [Family Bill Organizer Privacy Policy](/autoapp-legal/family-bill-binder/privacy/)
+- [Family Bill Organizer Terms of Use](/autoapp-legal/family-bill-binder/terms/)
+- [Family Bill Organizer Support](/autoapp-legal/family-bill-binder/support/)
+
 **Contact:** [harshp.build@gmail.com](mailto:harshp.build@gmail.com)
 
 If you're a user of one of these apps and have a question, complaint, or data-deletion request, please email the contact above.
